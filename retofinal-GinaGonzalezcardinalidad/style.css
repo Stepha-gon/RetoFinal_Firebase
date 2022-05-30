@@ -1,0 +1,17 @@
+ul li .white{color:#60A3DA;}
+.inpSearch{ border: 5px solid #653ABC; border-radius: 8px; }
+.icon-lg{font-size: 19px;}
+.red {color: #653ABC;}
+.blue{color: #BC3A91;
+
+}
+#container {
+
+	margin: 12 em 12em 12 em 12 em;
+	font-family: fuente1;
+	color: #FF616B;
+}
+@font-face {
+	font-family: fuente1;
+	src:url(../fuente/f1/Cookie-Regular.ttf)
+}
